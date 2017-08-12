@@ -2,6 +2,7 @@
 int main()
 {
 int b;
+printf("/n enter a number");
 scanf("%d",&b);
 if(b%2==0)
 {
